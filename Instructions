@@ -1,0 +1,13 @@
+--- Handling Pull Requests Instructions ---
+
+On GitHub.com, navigate to the main page of the repository.
+In the "Branch" menu, choose the branch that contains your commits. Branch dropdown menu
+Above the list of files, click  Pull request. "Pull request" link above list of files
+Use the base branch dropdown menu to select the branch you'd like to merge your changes into, then use the compare branch drop-down menu to choose the topic branch you made your changes in.
+Type a title and description for your pull request. Pull request title and description fields
+To create a pull request that is ready for review, click Create Pull Request. To create a draft pull request, use the drop-down and select Create Draft Pull Request, then click Draft Pull Request. For more information about draft pull requests, see "About pull requests."Create pull request button
+Tip: After you create a pull request, you can ask a specific person to review your proposed changes. For more information, see "Requesting a pull request review."
+
+After your pull request has been reviewed, it can be merged into the repository.
+
+-- This is not a valid step and should be removed. 
